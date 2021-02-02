@@ -1,4 +1,4 @@
-package com.pjh.login.loginserver;
+package com.pjh.loginserver;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
